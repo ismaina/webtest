@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'blog',
-    'mwanjau.pythonanywhere.com',
+    'mainawanjau.pythonanywhere.com',
 ]
 
 MIDDLEWARE = [
