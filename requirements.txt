@@ -1,7 +1,3 @@
 Django
-netmiko
 numpy
 pandas
-matplotlib
-jupyter
-scipy
