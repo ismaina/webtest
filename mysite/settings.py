@@ -26,7 +26,7 @@ SECRET_KEY = 'e#-ok)#dyqv6za#&azvl-vfnpn+$zdj$pes9x-1)qa!!x*uouy'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '127.0.0.1', 'pythonanywhere.com','myapp.herokuapp.com'
+    '127.0.0.1', 'pythonanywhere.com','myapp.herokuapp.com','webtestmwj.herokuapp.com'
 ]
 
 
